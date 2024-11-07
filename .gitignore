@@ -1,0 +1,5 @@
+poppler/
+build/
+dist/
+encrypted_api_key.json
+secret.key
